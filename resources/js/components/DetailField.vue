@@ -16,6 +16,7 @@
         :field="fields[locale.key]"
         :class="{ 'remove-bottom-border': removeBottomBorder() }"
         :resource-name="resourceName"
+        :resource-id="resourceId"
       ></component>
     </div>
   </div>

@@ -16,6 +16,7 @@
         :is="'form-' + field.translatable.original_component"
         :field="fields[locale.key]"
         :resource-name="resourceName"
+        :resource-id="resourceId"
         :errors="errors"
         :class="{ 'remove-bottom-border': removeBottomBorder() }"
         :show-help-text="showHelpText"
