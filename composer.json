@@ -1,5 +1,5 @@
 {
-  "name": "optimistdigital/nova-translatable",
+  "name": "bitfactory/nova-translatable",
   "description": "A laravel-translatable extension for Laravel Nova.",
   "keywords": [
     "laravel",
@@ -17,6 +17,11 @@
     {
       "name": "Optimist Digital",
       "email": "info@optimistdigital.com",
+      "role": "Maintainer"
+    },
+    {
+      "name": "Bitfactory",
+      "email": "info@bitfactory.nl",
       "role": "Maintainer"
     }
   ],
