@@ -11,4 +11,3 @@
 /tests              export-ignore
 /.editorconfig      export-ignore
 /docs               export-ignore
-auth.json
